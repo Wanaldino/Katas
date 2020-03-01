@@ -1,1 +1,3 @@
-Katas
+# Katas
+
+A description of this package.
